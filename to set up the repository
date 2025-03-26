@@ -1,0 +1,1 @@
+mkdir -p loanusa-website/{assets/{css,js,images},pages/verification}
