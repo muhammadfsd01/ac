@@ -1,0 +1,21 @@
+loanusa-website/
+├── assets/
+│   ├── css/
+│   │   └── style.css
+│   ├── js/
+│   │   └── script.js
+│   └── images/
+│       ├── logo.svg
+│       └── hero-bg.jpg (placeholder)
+├── pages/
+│   ├── eligibility.html
+│   ├── about.html
+│   ├── support.html
+│   ├── blog.html
+│   └── verification/
+│       ├── credit-verification.html
+│       └── ach-verification.html
+├── index.html
+├── README.md
+├── LICENSE
+└── .gitignore
