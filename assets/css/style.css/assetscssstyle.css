@@ -1,0 +1,15 @@
+/* Main Stylesheet */
+:root {
+    --primary-blue: #1a3a6d;
+    --accent-green: #4CAF50;
+    --highlight-gold: #FFD700;
+    --neutral-white: #f5f5f5;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    line-height: 1.6;
+}
+
+/* Add all previous CSS content here */
