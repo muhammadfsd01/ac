@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Check Eligibility - LoanUSA</title>
+    <link rel="stylesheet" href="../assets/css/style.css">
+</head>
+<body>
+    <header class="header">
+        <!-- Same header as index.html -->
+    </header>
+
+    <main class="container">
+        <h2>Loan Eligibility Check</h2>
+        <form id="eligibilityForm">
+            <!-- Form fields -->
+        </form>
+    </main>
+
+    <script src="../assets/js/script.js"></script>
+</body>
+</html>
